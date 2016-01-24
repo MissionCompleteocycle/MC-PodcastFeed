@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mission Completeocycle</title>
+    <link>http://missioncompleteocycle.tumblr.com</link>
+    <description>Mission Completeocycle is a blog about all gaming while juggling life, the universe and everything.
+
+All are welcome, but if you know what a betamax type is, you’ll know where we are coming from ;)
+
+Episode 1: Abraham and Francois discuss the origins of their gaming addiction.</description>
+    <itunes:summary>
+Mission Completeocycle is a blog about all gaming while juggling life, the universe and everything.
+
+All are welcome, but if you know what a betamax type is, you’ll know where we are coming from ;)
+
+Rules? Where we’re going, there are no rules! All things are in: hardware, software and whatever we felt like at the time.
+</itunes:summary>
+    <itunes:subtitle>Mid-life Gaming: Juggling gaming, life, the universe and everything...</itunes:subtitle>
+    <image>
+      <link>http://missioncompleteocycle.tumblr.com</link>
+      <url>https://drive.google.com/file/d/0BwxCk6T_Xog8VTRVSlhUYUMxd2s/view?usp=sharing</url>
+      <title>Mission Completeocycle</title>
+      <height>144</height>
+      <width>144</width>
+    </image>
+    <itunes:image href="https://drive.google.com/file/d/0BwxCk6T_Xog8ZlQ4bDZSaVFMaTA/view?usp=sharing" />
+    <category>Games &amp; Hobbies</category>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Automotive" />
+    </itunes:category>
+    <language>en-us</language>
+    <copyright>2016. All rights reserved.</copyright>
+    <pubDate>Sat, 23 Jan 2016 15:35:54 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 15:35:54 GMT</lastBuildDate>
+    <generator>Poderator.com</generator>
+    <managingEditor>missioncompleteocycle@gmail.com(Abraham Aucamp)</managingEditor>
+    <webMaster>missioncompleteocycle@gmail.com(Abraham Aucamp)</webMaster>
+    <itunes:owner>
+      <itunes:name>Abraham Aucamp</itunes:name>
+      <itunes:email>missioncompleteocycle@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <ttl>1</ttl>
+    <item>
+      <title>Episode 001: Computa PC16 (Prologue)</title>
+      <link>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</link>
+      <comments>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</comments>
+      <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
+      <dc:creator>Abraham Aucamp; Francois Aucamp</dc:creator>
+      <description>Abraham and Francois start with a brief introduction of how they got into gaming, taking a quick trip from the very early 80s to today</description>
+      <content:encoded>Abraham and Francois start with a brief introduction of how they got into gaming, taking a quick trip from the very early 80s to today</content:encoded>
+      <pubDate>Sat, 23 Jan 2016 15:35:54 GMT</pubDate>
+      <itunes:subtitle>Mid-life Gaming: Juggling gaming, life, the universe and everything...</itunes:subtitle>
+      <itunes:summary>Abraham and Francois start with a brief introduction of how they got into gaming, taking a quick trip from the very early 80s to today</itunes:summary>
+      <itunes:keywords>games,gaming,introduction,retro,nintendo,game&amp;watch,soundblaster</itunes:keywords>
+      <itunes:duration>00:38:30</itunes:duration>
+      <category>Games &amp; Hobbies</category>
+      <enclosure url="https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing" length="41687941" type="audio/mpeg3" />
+      <guid>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
