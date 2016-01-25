@@ -18,15 +18,15 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
     <itunes:subtitle>Mid-life Gaming: Juggling gaming, life, the universe and everything...</itunes:subtitle>
     <image>
       <link>http://missioncompleteocycle.tumblr.com</link>
-      <url>https://drive.google.com/file/d/0BwxCk6T_Xog8VTRVSlhUYUMxd2s/view?usp=sharing</url>
+      <url>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission_Complete-o-cycle_Logo_Round_144.png</url>
       <title>Mission Completeocycle</title>
       <height>144</height>
       <width>144</width>
     </image>
-    <itunes:image href="https://drive.google.com/file/d/0BwxCk6T_Xog8ZlQ4bDZSaVFMaTA/view?usp=sharing" />
+    <itunes:image href="https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission_Complete-o-cycle_Logo_full.png" />
     <category>Games &amp; Hobbies</category>
     <itunes:category text="Games &amp; Hobbies">
-      <itunes:category text="Automotive" />
+      <itunes:category text="Tech" />
     </itunes:category>
     <language>en-us</language>
     <copyright>2016. All rights reserved.</copyright>
@@ -44,8 +44,8 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
     <ttl>1</ttl>
     <item>
       <title>Episode 001: Computa PC16 (Prologue)</title>
-      <link>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</link>
-      <comments>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</comments>
+      <link>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3</link>
+      <comments>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3</comments>
       <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
       <dc:creator>Abraham Aucamp; Francois Aucamp</dc:creator>
       <description>Abraham and Francois start with a brief introduction of how they got into gaming, taking a quick trip from the very early 80s to today</description>
@@ -56,8 +56,8 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
       <itunes:keywords>games,gaming,introduction,retro,nintendo,game&amp;watch,soundblaster</itunes:keywords>
       <itunes:duration>00:38:30</itunes:duration>
       <category>Games &amp; Hobbies</category>
-      <enclosure url="https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing" length="41687941" type="audio/mpeg3" />
-      <guid>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</guid>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3" length="41687941" type="audio/mpeg3" />
+      <guid>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
