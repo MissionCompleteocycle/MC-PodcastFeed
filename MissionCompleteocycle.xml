@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Mission Completeocycle</title>
@@ -8,8 +8,7 @@
 All are welcome, but if you know what a betamax type is, you’ll know where we are coming from ;)
 
 Episode 1: Abraham and Francois discuss the origins of their gaming addiction.</description>
-    <itunes:summary>
-Mission Completeocycle is a blog about all gaming while juggling life, the universe and everything.
+    <itunes:summary>Mission Completeocycle is a blog about all gaming while juggling life, the universe and everything.
 
 All are welcome, but if you know what a betamax type is, you’ll know where we are coming from ;)
 
@@ -26,12 +25,12 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
     <itunes:image href="https://raw.githubusercontent.com/MissionCompleteocycle/MC-PodcastFeed/master/Mission_Complete-o-cycle_Logo_300.png" />
     <category>Games &amp; Hobbies</category>
     <itunes:category text="Games &amp; Hobbies">
-      <itunes:category text="Automotive" />
+      <itunes:category text="Video Games" />
     </itunes:category>
     <language>en-us</language>
     <copyright>2016. All rights reserved.</copyright>
-    <pubDate>Fri, 04 Mar 2016 06:28:29 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2016 06:28:29 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2016 05:43:46 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 05:43:46 GMT</lastBuildDate>
     <generator>Poderator.com</generator>
     <managingEditor>missioncompleteocycle@gmail.com(Abraham Aucamp)</managingEditor>
     <webMaster>missioncompleteocycle@gmail.com(Abraham Aucamp)</webMaster>
@@ -42,6 +41,30 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
     <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <ttl>1</ttl>
+    <item>
+      <title>Episode 003: Virtuality</title>
+      <link>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Completeocycle+-+MC003+-+Virtuality.mp3</link>
+      <comments>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Completeocycle+-+MC003+-+Virtuality.mp3</comments>
+      <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
+      <dc:creator>Abraham Aucamp; Francois Aucamp</dc:creator>
+      <description>More discussion on Virtual Reality, from the old Virtuality CS-1000 and VFX-1 to PS VR and the ViewMaster VR Google Cardboard-compatible headset.
+
+We also discuss the joys of airport Lost &amp; Found and lost Vitas, as well as the games we're playing.</description>
+      <content:encoded>More discussion on Virtual Reality, from the old Virtuality CS-1000 and VFX-1 to PS VR and the ViewMaster VR Google Cardboard-compatible headset.
+
+We also discuss the joys of airport Lost &amp; Found and lost Vitas, as well as the games we're playing.</content:encoded>
+      <pubDate>Thu, 24 Mar 2016 05:43:46 GMT</pubDate>
+      <itunes:subtitle>Virtuality</itunes:subtitle>
+      <itunes:summary>More discussion on Virtual Reality, from the old Virtuality CS-1000 and VFX-1 to PS VR and the ViewMaster VR Google Cardboard-compatible headset.
+
+We also discuss the joys of airport Lost &amp; Found and lost Vitas, as well as the games we're playing.</itunes:summary>
+      <itunes:keywords>Virtuality SC-1000,VFX-1,Video Games,PS VR,Vita,Playstation,PS4,gaming,games</itunes:keywords>
+      <itunes:duration>00:31:11</itunes:duration>
+      <category>Games &amp; Hobbies</category>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Completeocycle+-+MC003+-+Virtuality.mp3" length="46208761" type="audio/mpeg3" />
+      <guid>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Completeocycle+-+MC003+-+Virtuality.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Episode 002: African Summer Gaming</title>
       <link>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC002+-+African+Summer+Gaming.mp3</link>
@@ -62,8 +85,8 @@ Rules? Where we’re going, there are no rules! All things are in: hardware, sof
     </item>
     <item>
       <title>Episode 001: Computa PC16 (Prologue)</title>
-      <link>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3</link>
-      <comments>https://s3-eu-west-1.amazonaws.com/missioncompleteocycle/Mission+Complete-o-cycle+-+MC001+-+Computa+PC16.mp3</comments>
+      <link>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</link>
+      <comments>https://drive.google.com/file/d/0BwxCk6T_Xog8WFB1eWtUR1NnZ2s/view?usp=sharing</comments>
       <itunes:author>Abraham Aucamp; Francois Aucamp</itunes:author>
       <dc:creator>Abraham Aucamp; Francois Aucamp</dc:creator>
       <description>Abraham and Francois start with a brief introduction of how they got into gaming, taking a quick trip from the very early 80s to today</description>
